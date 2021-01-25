@@ -7,4 +7,5 @@
 
 \f0\fs24 \cf0 Test test\
 Autotest\
-It\'92s a song about test}
+It\'92s a song about test
+finish my song}
