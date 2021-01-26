@@ -10,4 +10,7 @@
 \outl0\strokewidth0 \strokec2 Twenty ships with Norsemen braves
 \f1 \
 
-\f0 Riding the northern wind}
+\f0 Riding the northern wind
+
+They left their shores at early dawn
+As a red sun was rising in the east}
